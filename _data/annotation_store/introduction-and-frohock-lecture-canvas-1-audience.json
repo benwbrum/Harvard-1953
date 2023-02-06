@@ -12,12 +12,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": " APPLAUSE",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " APPLAUSE",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://tanyaclement.github.io/Harvard-1953/introduction-and-frohock-lecture/canvas-1/canvas",
         "selector": {
@@ -34,12 +42,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": " LAUGHTER",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://tanyaclement.github.io/Harvard-1953/introduction-and-frohock-lecture/canvas-1/canvas",
         "selector": {
@@ -56,12 +72,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": " LAUGHTER",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://tanyaclement.github.io/Harvard-1953/introduction-and-frohock-lecture/canvas-1/canvas",
         "selector": {
@@ -78,12 +102,20 @@
         "supplementing",
         "commenting"
       ],
-      "body": {
-        "type": "TextualBody",
-        "value": " LAUGHTER",
-        "format": "text/plain",
-        "purpose": "commenting"
-      },
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": " LAUGHTER",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
       "target": {
         "source": "https://tanyaclement.github.io/Harvard-1953/introduction-and-frohock-lecture/canvas-1/canvas",
         "selector": {
