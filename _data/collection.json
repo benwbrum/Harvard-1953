@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The 1953 Harvard Summer School Conference on The Contemporary Novel" ] },
+    "summary": { "en": [ "August 3-5, 1953, Available at Houghton Library, Harvard University" ] },
+    "items": [
+    ]
+}
