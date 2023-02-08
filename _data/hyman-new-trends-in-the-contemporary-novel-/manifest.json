@@ -23,6 +23,48 @@
         "id": "https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3204.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-william-yandell-elliot.json",
+            "label": {
+              "none": ["William Yandell Elliot"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-stanley-hyman.json",
+            "label": {
+              "none": ["Stanley Hyman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-carver-collins.json",
+            "label": {
+              "none": ["Carver Collins"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-/canvas-1/paintings",
