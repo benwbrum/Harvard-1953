@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-frank-o-connor.json",
-            "label": {
-              "none": ["Frank O'Connor"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-program.json",
             "label": {
               "none": ["Program"]
