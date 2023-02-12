@@ -6,7 +6,7 @@ layout: default
 ---
 ## August 3, 1953
 ### Evening
-<ul style="list-style-type: none;">
+<ul style="list-style: none;">
 <li style="list-style-type: none;">Introduction to Carvel Collins, William Elliot Yardell</li> 
 <li style="list-style-type: none;">Opening Remarks, Carvel Collins</li>
 <li style="list-style-type: none;">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</li> 
@@ -19,6 +19,7 @@ layout: default
 <ul style="list-style-type: none;"><li style="list-style-type: none;">Introduction, Carvel Collins</li>
 <li style="list-style-type: none;">Lecture, W. M. Frohock </li>
 <li style="list-style-type: none;">Panel Discussion </li></ul>
+
 ### Evening:
 <ul style="list-style-type: none;">
 <li>Opening Remarks	Carvel Collins</li> </ul>
@@ -34,7 +35,7 @@ layout: default
 <li>Panel Discussion</li> </ul>
 ### Evening: 
 <ul style="list-style-type: none;">
- <li>Opening Remarks, Carvel Collins	</li>
+<li>Opening Remarks, Carvel Collins	</li>
 <li>Lecture: "Paperback Books and the Writer," Hilda Livingston</li>
 <li>Lecture: "The Editor and The Author," William Sloan</li>
 <li>Roundtable Discussion</li> </ul>
