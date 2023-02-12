@@ -4,8 +4,8 @@
 
 layout: default
 ---
-##August 3, 1953
-###Evening
+## August 3, 1953
+### Evening
 - Introduction to Carvel Collins, William Elliot Yardell
 - Opening Remarks, Carvel Collins
 - Lecture: "New Trends in the Contemporary Novel," Stanley Hyman
@@ -13,23 +13,23 @@ layout: default
 - Response to Hyman and O'Connor, Anthony West
 - Panel Discussion
 
-**August 4, 1953**
-Afternoon:
+## August 4, 1953
+### Afternoon:
 - Introduction, Carvel Collins
 - Lecture, W. M. Frohock 
 - Panel Discussion	
-Evening:
+### Evening:
 - Opening Remarks	Carvel Collins
 - Lecture: "The Era of the Novel?," George Simenon
 - Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison
 - Response to Simenon and Ellison, W.M. Frohock
 
-**August 5, 1953**
-Afternoon: 
+## August 5, 1953
+### Afternoon: 
 - Opening Remarks, Carvel Collins
 - Lecture, Hans Egon Holthusen
 - Panel Discussion
-Evening: 
+### Evening: 
 - Opening Remarks, Carvel Collins	
 - Lecture: "Paperback Books and the Writer," Hilda Livingston
 - Lecture: "The Editor and The Author," William Sloan
