@@ -6,8 +6,8 @@ layout: default
 ---
 ## August 3, 1953
 ### Evening
-<ul style="list-style: none;">
-<li style="list-style-type: none;">Introduction to Carvel Collins, William Elliot Yardell</li> 
+<ul style="list-style-type:none;">
+<li style="list-style-type:none;">Introduction to Carvel Collins, William Elliot Yardell</li> 
 <li style="list-style-type: none;">Opening Remarks, Carvel Collins</li>
 <li style="list-style-type: none;">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</li> 
 <li style="list-style-type: none;">Lecture: "The Modern Novel," Frank O'Connor</li>
