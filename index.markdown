@@ -6,10 +6,10 @@ layout: default
 ---
 ## August 3, 1953
 ### Evening
-<ul style="none">
-<li style="list-style-type:none;">Introduction to Carvel Collins, William Elliot Yardell</li> 
-<li style="list-style-type:none;">Opening Remarks, Carvel Collins</li>
-<li style="list-style-type:none;">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</li> 
+<ul style="list-style-type:none;">
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Introduction to Carvel Collins, William Elliot Yardell</a></li> 
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Opening Remarks, Carvel Collins</a></li>
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</a></li> 
 <li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor</li>
 <li style="list-style-type:none;">Response to Hyman and O'Connor, Anthony West</li>
 <li style="list-style-type:none;">Panel Discussion</li> </ul>
@@ -22,7 +22,7 @@ layout: default
 
 ### Evening:
 <ul style="list-style-type: none;">
-<li>Opening Remarks	Carvel Collins</li> </ul>
+<li>Opening Remarks	Carvel Collins</li>
 <li>Lecture: "The Era of the Novel?," George Simenon</li>
 <li>Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison</li> 
 <li>Response to Simenon and Ellison, W.M. Frohock</li> </ul>
