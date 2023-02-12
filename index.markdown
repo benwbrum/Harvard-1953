@@ -7,9 +7,9 @@ layout: default
 ## August 3, 1953
 ### Evening
 <ul style="list-style-type:none;">
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Introduction to Carvel Collins, William Elliot Yardell</a></li> 
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Opening Remarks, Carvel Collins</a></li>
-<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</a></li> 
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Introduction to Carvel Collins</a>, William Elliot Yardell</li> 
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Conference Opening Remarks</a>, Carvel Collins</li>
+<li style="list-style-type:none;"><a href="https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-">Lecture: "New Trends in the Contemporary Novel," </a>Stanley Hyman</li> 
 <li style="list-style-type:none;">Lecture: "The Modern Novel," Frank O'Connor</li>
 <li style="list-style-type:none;">Response to Hyman and O'Connor, Anthony West</li>
 <li style="list-style-type:none;">Panel Discussion</li> </ul>
