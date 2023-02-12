@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://tanyaclement.github.io/Harvard-1953/hyman-new-trends-in-the-contemporary-novel-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Hyman, \"New Trends in the Contemporary Novel\"" ] },
+    "label": { "en": [ "Introductory Remarks, Hyman and O'Connor Lectures" ] },
     "homepage": [
       {
         "id": "https://id.lib.harvard.edu/alma/99156329279403941/catalog",
         "type": "Text",
-        "label": { "en": [ "Hyman, \"New Trends in the Contemporary Novel\"" ] },
+        "label": { "en": [ "Introductory Remarks, Hyman and O'Connor Lectures" ] },
         "format": "text/html"
       }
     ],

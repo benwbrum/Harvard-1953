@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Hyman, "New Trends in the Contemporary Novel"
+title: Introductory Remarks, Hyman and O'Connor Lectures
 manifest_name: hyman-new-trends-in-the-contemporary-novel-
 
 ---
