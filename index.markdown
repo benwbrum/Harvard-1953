@@ -4,8 +4,8 @@
 
 layout: default
 ---
-**August 3, 1953**
-Evening
+##August 3, 1953
+###Evening
 - Introduction to Carvel Collins, William Elliot Yardell
 - Opening Remarks, Carvel Collins
 - Lecture: "New Trends in the Contemporary Novel," Stanley Hyman
