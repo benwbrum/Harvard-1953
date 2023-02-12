@@ -33,6 +33,7 @@ layout: default
 <li>Opening Remarks, Carvel Collins</li>
 <li>Lecture, Hans Egon Holthusen</li>
 <li>Panel Discussion</li> </ul>
+
 ### Evening: 
 <ul style="list-style-type: none;">
 <li>Opening Remarks, Carvel Collins	</li>
