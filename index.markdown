@@ -6,31 +6,35 @@ layout: default
 ---
 ## August 3, 1953
 ### Evening
-- Introduction to Carvel Collins, William Elliot Yardell
-- Opening Remarks, Carvel Collins
-- Lecture: "New Trends in the Contemporary Novel," Stanley Hyman
-- Lecture: "The Modern Novel," Frank O'Connor
-- Response to Hyman and O'Connor, Anthony West
-- Panel Discussion
+<ul style="list-style-type: none;">
+<li style="list-style-type: none;">Introduction to Carvel Collins, William Elliot Yardell</li> 
+<li style="list-style-type: none;">Opening Remarks, Carvel Collins</li>
+<li style="list-style-type: none;">Lecture: "New Trends in the Contemporary Novel," Stanley Hyman</li> 
+<li style="list-style-type: none;">Lecture: "The Modern Novel," Frank O'Connor</li>
+<li style="list-style-type: none;">Response to Hyman and O'Connor, Anthony West</li>
+<li style="list-style-type: none;">Panel Discussion</li> </ul>
 
 ## August 4, 1953
 ### Afternoon:
-- Introduction, Carvel Collins
-- Lecture, W. M. Frohock 
-- Panel Discussion	
+<ul style="list-style-type: none;"><li style="list-style-type: none;">Introduction, Carvel Collins</li>
+<li style="list-style-type: none;">Lecture, W. M. Frohock </li>
+<li style="list-style-type: none;">Panel Discussion </li></ul>
 ### Evening:
-- Opening Remarks	Carvel Collins
-- Lecture: "The Era of the Novel?," George Simenon
-- Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison
-- Response to Simenon and Ellison, W.M. Frohock
-
+<ul style="list-style-type: none;">
+<li>Opening Remarks	Carvel Collins</li> </ul>
+<li>Lecture: "The Era of the Novel?," George Simenon</li>
+<li>Lecture: "Certain Neglected Aspects of the American Novel," Ralph Ellison</li> 
+<li>Response to Simenon and Ellison, W.M. Frohock</li> </ul>
+ 
 ## August 5, 1953
 ### Afternoon: 
-- Opening Remarks, Carvel Collins
-- Lecture, Hans Egon Holthusen
-- Panel Discussion
+<ul style="list-style-type: none;">
+<li>Opening Remarks, Carvel Collins</li>
+<li>Lecture, Hans Egon Holthusen</li>
+<li>Panel Discussion</li> </ul>
 ### Evening: 
-- Opening Remarks, Carvel Collins	
-- Lecture: "Paperback Books and the Writer," Hilda Livingston
-- Lecture: "The Editor and The Author," William Sloan
-- Roundtable Discussion
+<ul style="list-style-type: none;">
+ <li>Opening Remarks, Carvel Collins	</li>
+<li>Lecture: "Paperback Books and the Writer," Hilda Livingston</li>
+<li>Lecture: "The Editor and The Author," William Sloan</li>
+<li>Roundtable Discussion</li> </ul>
