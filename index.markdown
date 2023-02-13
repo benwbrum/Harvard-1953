@@ -4,7 +4,7 @@
 
 layout: default
 ---
-<p align center>><img align="right" width="35%" height="35%" src="fullsizeoutput_1950e.jpeg"/></p>
+<p align="center"><img align="right" width="35%" height="35%" src="fullsizeoutput_1950e.jpeg"/></p>
 
 ## August 3, 1953
 ### Evening
