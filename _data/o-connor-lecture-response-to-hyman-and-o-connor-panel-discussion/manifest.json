@@ -40,14 +40,6 @@
               "none": ["Program"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
         ],
         "items": [
           {
