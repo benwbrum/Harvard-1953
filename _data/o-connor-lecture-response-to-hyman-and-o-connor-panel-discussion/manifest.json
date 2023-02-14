@@ -48,14 +48,6 @@
               "none": ["Audience"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-wgbh-radio-announcement.json",
-            "label": {
-              "none": ["WGBH Radio Announcement"]
-            }
-          }
         ],
         "items": [
           {
