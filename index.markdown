@@ -18,8 +18,8 @@ layout: default
 
 ## August 4, 1953
 ### Afternoon:
-<ul style="list-style-type: none;"><li style="list-style-type: none;">Introduction, Carvel Collins</li>
-<li style="list-style-type: none;">Lecture, W. M. Frohock </li>
+<ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture">Session Introduction</a>, Carvel Collins</li>
+<li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture">Lecture</a>, W. M. Frohock </li>
 <li style="list-style-type: none;">Panel Discussion </li></ul>
 
 ### Evening:
