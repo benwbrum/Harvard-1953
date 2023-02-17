@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://tanyaclement.github.io/Harvard-1953/august-4-panel-discussion/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "August 4 Panel Discussion" ] },
+    "label": { "en": [ "August 4 Panel Discussion, Part Two" ] },
     "homepage": [
       {
         "id": "https://id.lib.harvard.edu/alma/990016954060203941/catalog",
         "type": "Text",
-        "label": { "en": [ "August 4 Panel Discussion" ] },
+        "label": { "en": [ "August 4 Panel Discussion, Part Two" ] },
         "format": "text/html"
       }
     ],
