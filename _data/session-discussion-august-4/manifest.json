@@ -23,6 +23,96 @@
         "id": "https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1947.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-w-m--frohock.json",
+            "label": {
+              "none": ["W.M. Frohock"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-stanley-hyman.json",
+            "label": {
+              "none": ["Stanley Hyman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-andrew-lytle.json",
+            "label": {
+              "none": ["Andrew Lytle"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-carver-collins.json",
+            "label": {
+              "none": ["Carver Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-anthony-west.json",
+            "label": {
+              "none": ["Anthony West"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-harold-humes.json",
+            "label": {
+              "none": ["Harold Humes"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-panelists.json",
+            "label": {
+              "none": ["Panelists"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4/canvas-1/paintings",
