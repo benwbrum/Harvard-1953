@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-ralph-ellison.json",
-            "label": {
-              "none": ["Ralph Ellison"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
