@@ -48,14 +48,6 @@
               "none": ["W.M. Frohock"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-introduction-frohock-lecture-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
         ],
         "items": [
           {
