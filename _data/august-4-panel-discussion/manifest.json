@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-frank-o-connor.json",
-            "label": {
-              "none": ["Frank O'Connor"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
