@@ -35,14 +35,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-anthony-west.json",
-            "label": {
-              "none": ["Anthony West"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-program.json",
             "label": {
               "none": ["Program"]
