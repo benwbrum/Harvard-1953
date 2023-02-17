@@ -23,6 +23,56 @@
         "id": "https://tanyaclement.github.io/Harvard-1953/august-4-panel-discussion/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1971.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-stanley-hyman.json",
+            "label": {
+              "none": ["Stanley Hyman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-carver-collins.json",
+            "label": {
+              "none": ["Carver Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-w-m--frohock.json",
+            "label": {
+              "none": ["W.M. Frohock"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/august-4-panel-discussion-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/Harvard-1953/august-4-panel-discussion/canvas-1/paintings",
