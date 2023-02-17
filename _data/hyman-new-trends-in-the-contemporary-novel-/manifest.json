@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-stanley-hyman.json",
-            "label": {
-              "none": ["Stanley Hyman"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-frank-o-connor.json",
             "label": {
               "none": ["Frank O'Connor"]
