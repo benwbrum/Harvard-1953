@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Session Discussion August 4
+title: Session Discussion August 4, Part One
 manifest_name: session-discussion-august-4
 permalink: session-discussion-august-4
 external_manifest_url: 
