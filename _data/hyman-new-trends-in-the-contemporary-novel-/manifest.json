@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-william-yandell-elliot.json",
-            "label": {
-              "none": ["William Yandell Elliot"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/hyman-new-trends-in-the-contemporary-novel--canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
