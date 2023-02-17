@@ -1,6 +1,6 @@
 ---
 layout: item
-title: August 4 Session Introduction, Frohock Lecture
+title: Session Introduction, Frohock Lecture August 4 
 manifest_name: session-introduction-frohock-lecture
 permalink: session-introduction-frohock-lecture
 external_manifest_url: 
