@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-audience.json",
-            "label": {
-              "none": ["Audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/o-connor-lecture-response-to-hyman-and-o-connor-panel-discussion-canvas-1-stanley-hyman.json",
             "label": {
               "none": ["Stanley Hyman"]
