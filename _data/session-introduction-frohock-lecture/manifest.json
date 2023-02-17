@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-introduction-frohock-lecture-canvas-1-program.json",
-            "label": {
-              "none": ["Program"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-introduction-frohock-lecture-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
