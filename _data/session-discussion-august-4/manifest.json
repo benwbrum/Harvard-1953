@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Session Discussion August 4" ] },
+    "label": { "en": [ "Session Discussion" ] },
     "homepage": [
       {
         "id": "https://id.lib.harvard.edu/alma/990016954060203941/catalog",
         "type": "Text",
-        "label": { "en": [ "Session Discussion August 4" ] },
+        "label": { "en": [ "Session Discussion" ] },
         "format": "text/html"
       }
     ],
