@@ -20,7 +20,7 @@ layout: default
 ### Afternoon:
 <ul style="list-style-type: none;"><li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture-august-4">Session Introduction</a>, Carvel Collins</li>
 <li style="list-style-type: none;"><a href="https://tanyaclement.github.io/Harvard-1953/session-introduction-frohock-lecture-august-4">Lecture</a>, W. M. Frohock</li>
-<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-one">Part One</a>, <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-two">Part Two</a>, and Part Three </li></ul>
+<li style="list-style-type: none;">Panel Discussion <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-one">Part One</a>, <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-two">Part Two</a>, and <a href="https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-three">Part Three</a> </li></ul>
 
 ### Evening:
 <ul style="list-style-type: none;">
