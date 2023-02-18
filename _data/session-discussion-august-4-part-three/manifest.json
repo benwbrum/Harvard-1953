@@ -23,6 +23,56 @@
         "id": "https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-three/canvas-1/canvas",
         "type": "Canvas",
         "duration": 335.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-alan-campbell-.json",
+            "label": {
+              "none": ["Alan Campbell "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-program.json",
+            "label": {
+              "none": ["Program"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-three-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/Harvard-1953/session-discussion-august-4-part-three/canvas-1/paintings",
