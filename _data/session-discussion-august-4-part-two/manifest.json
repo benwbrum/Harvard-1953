@@ -27,9 +27,49 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-stanley-hyman.json",
+            "label": {
+              "none": ["Stanley Hyman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-ralph-ellison.json",
+            "label": {
+              "none": ["Ralph Ellison"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-w-m--frohock.json",
             "label": {
               "none": ["W.M. Frohock"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-carvel-collins.json",
+            "label": {
+              "none": ["Carvel Collins"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/Harvard-1953/annotations/session-discussion-august-4-part-two-canvas-1-frank-o-connor.json",
+            "label": {
+              "none": ["Frank O'Connor"]
             }
           }
         ],
